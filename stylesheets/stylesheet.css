@@ -498,6 +498,11 @@ footer a:hover {
     margin: 5px;
 }
 
+#screenshots > a{
+    display: inline-block;
+    vertical-align: middle;
+}
+
 .feedly-logo{
     float: left;
     border-radius: 5px;
